@@ -1,0 +1,14 @@
+{
+  "name": "bookmark",
+  "version": "1.0.0",
+  "description": "First bookmark urls",
+  "main": "./app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Yory100",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^7.1.10"
+  }
+}
